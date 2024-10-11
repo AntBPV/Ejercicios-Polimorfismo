@@ -13,8 +13,8 @@ public class Truck extends Vehicle{
 		return tow;
 	}
 
-	public void setTow(Tow towel) {
-		this.tow = towel;
+	public void setTow(Tow tow) {
+		this.tow = tow;
 	}
 		// Extra method to remove tow
 	public void removeTow() {
